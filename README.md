@@ -62,3 +62,8 @@ You can access to file KNIME_ForestFire file in project
 ## Results and Discussion
 Best Performing Model: Random Forest with the lowest RMSE and MAD values.
 Model Insights: The Random Forest model provided the best performance in predicting forest fire occurrences. Other models, while useful, showed higher RMSE and MAD values.
+
+## I Need Help
+I took this error from Random Forest Model.
+![image](https://github.com/user-attachments/assets/38134c65-c8dd-48e5-a8fa-77e2f8b50bac)
+
